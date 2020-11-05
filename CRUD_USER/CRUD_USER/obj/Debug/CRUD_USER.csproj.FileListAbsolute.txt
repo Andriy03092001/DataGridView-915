@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\CRUD_USER\CRUD_USER\bin\Debug\CRUD_USER.exe.config
+C:\Users\Admin\Desktop\CRUD_USER\CRUD_USER\bin\Debug\CRUD_USER.exe
+C:\Users\Admin\Desktop\CRUD_USER\CRUD_USER\bin\Debug\CRUD_USER.pdb
+C:\Users\Admin\Desktop\CRUD_USER\CRUD_USER\obj\Debug\CRUD_USER.Form1.resources
+C:\Users\Admin\Desktop\CRUD_USER\CRUD_USER\obj\Debug\CRUD_USER.Properties.Resources.resources
+C:\Users\Admin\Desktop\CRUD_USER\CRUD_USER\obj\Debug\CRUD_USER.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\CRUD_USER\CRUD_USER\obj\Debug\CRUD_USER.exe
+C:\Users\Admin\Desktop\CRUD_USER\CRUD_USER\obj\Debug\CRUD_USER.pdb
+C:\Users\Admin\Desktop\CRUD_USER\CRUD_USER\obj\Debug\CRUD_USER.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\CRUD_USER\CRUD_USER\obj\Debug\CRUD_USER.AddUser.resources

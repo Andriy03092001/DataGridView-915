@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\DataGridView\DataGridView\bin\Debug\DataGridView.exe.config
+C:\Users\Admin\Desktop\DataGridView\DataGridView\bin\Debug\DataGridView.exe
+C:\Users\Admin\Desktop\DataGridView\DataGridView\bin\Debug\DataGridView.pdb
+C:\Users\Admin\Desktop\DataGridView\DataGridView\obj\Debug\DataGridView.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\DataGridView\DataGridView\obj\Debug\DataGridView.Form1.resources
+C:\Users\Admin\Desktop\DataGridView\DataGridView\obj\Debug\DataGridView.Properties.Resources.resources
+C:\Users\Admin\Desktop\DataGridView\DataGridView\obj\Debug\DataGridView.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\DataGridView\DataGridView\obj\Debug\DataGridView.exe
+C:\Users\Admin\Desktop\DataGridView\DataGridView\obj\Debug\DataGridView.pdb
